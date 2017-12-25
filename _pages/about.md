@@ -12,7 +12,7 @@ I am a PhD candidate in the Linguistics department at UC San Diego. I am
 interested in ellipsis, computational pragmatics, and experimental approaches to
 language. My advisors are [Andy Kehler](http://idiom.ucsd.edu/~kehler/) and
 [Roger Levy](http://www.mit.edu/~rplevy/), and I am currently visiting the
-[Computational Psycholinguistics Lab](http://cpl.mit.edu/).
+[Computational Psycholinguistics Lab](http://cpl.mit.edu/) at MIT.
 
 <!-- This is the front page of a website that is powered by the
 [academicpages
