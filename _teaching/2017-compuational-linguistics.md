@@ -7,3 +7,5 @@ venue: "UC San Diego"
 date: 2017, Spring quarter
 location: "San Diego, USA"
 ---
+
+Instructor: Priyanka Biswas, PhD
