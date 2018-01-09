@@ -1,5 +1,5 @@
 ---
-title: "Overcoming the Identity crisis: novel evidence for a referential theory of Verb Phrase Ellipsis"
+title: "[PDF][BibTeX] Overcoming the Identity crisis: novel evidence for a referential theory of Verb Phrase Ellipsis"
 collection: publications
 permalink: /publication/2017-poppels-kehler-cls
 excerpt: ''
