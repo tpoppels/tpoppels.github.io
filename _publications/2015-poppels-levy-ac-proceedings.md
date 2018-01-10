@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2017-poppels-levy-ac-proceedings
 excerpt: ''
 date: 2015-12-01
-venue: ''
+venue: 'Proceedings of the 20th Amsterdam Colloquium'
 paperurl: 'http://tpoppels.github.io/files/2015-poppels-levy-ac-proceedings.pdf'
 ---
 
