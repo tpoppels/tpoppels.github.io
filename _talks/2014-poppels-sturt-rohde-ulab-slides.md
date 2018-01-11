@@ -8,7 +8,7 @@ date: 2014-04-26
 location: "The University of Edinburgh"
 ---
 
-I present the research I did with Hannah Rohde and Patrick Sturt for my
+I presented the research I did with Hannah Rohde and Patrick Sturt for my
 undergraduate Honours Thesis at the University of Edinburgh.
 
 [[Slides]](http://tpoppels.github.io/files/2014-poppels-sturt-rohde-ulab-slides.pdf)
