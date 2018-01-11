@@ -1,14 +1,13 @@
 ---
-title: "Why did Mary grop? Inferring word meanings from the semantic context"
+title: "How do we learn vowels?"
 collection: talks
 type: "Talk"
-permalink: /talks/2016-poppels-levy-cuny-poster
-venue: "Annual Metting of the Undergraduate Linguistics Association of Britain"
-date: 2014-04-26
-location: "The University of Edinburgh"
+permalink: /talks/2013-poppels-swingley-penn-talk
+venue: "Penn Psychology Undergraduate Research Fair"
+date: 2013-05-26
+location: "University of Pennsylvania"
 ---
 
-I present the research I did with Hannah Rohde and Patrick Sturt for my
-undergraduate Honours Thesis at the University of Edinburgh.
+Here I presented the research I did with Daniel Swingley as an Independent Study during my year at Penn.
 
-[[Slides]](http://tpoppels.github.io/files/2014-poppels-sturt-rohde-ulab-slides.pdf)
+[[Slides]](http://tpoppels.github.io/files/2013-poppels-swingley-penn-slides.pdf)
