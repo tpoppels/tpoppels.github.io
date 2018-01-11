@@ -12,6 +12,8 @@ Under construction; please visit tpoppels.wordpress.com in the meantime.
 Education
 ======
 * MA in *Mind & Language*, University of Edinburgh, 2010
+* University of Pennsylvania: International Student at the Institute for Research in Cognitive Science, 2012-2013
+* University of Chicago: Linguistics Society of America Summer Institute, 2015
 * PhD in Linguistics, UC San Diego, 2019 (expected)
 
 Publications
@@ -34,8 +36,18 @@ Teaching
   
 Awards & Honors
 ======
-* 
+* Dean's List (University of Pennsylvania), 2012-2013
+* James Hutchison Stirling Prize (University of Edinburgh, Philosophy), 2012
+* Certificate of Merit (University of Edinburgh, Psychology), 2011
+* Simon Gray Prize (University of Edinburgh, Psychology), 2011
+* CertiLingua Label of Escellence (Maria-Waechtler Gymnasium), 2009
 
 Funding
 ======
 * 2015: Graduate Student Association Travel Grant (UCSD)
+* 2015: Linguistics Society of America Summer Instiute Fellowship
+* 2014-2016: German National Academic Foundation: Master's Fellowship
+* 2014-2018: Kroner Family Fellowship (UCSD)
+* 2012-2013: German National Academic Foundation: Foreign Studies Award
+* 2012-2014: German National Academic Foundation: Undergraduate Fellowship
+* 2011-2013: Stuart Brusary (University of Edinburgh)
