@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-Under construction; please visit tpoppels.wordpress.com in the meantime.
-
 Education
 ======
 * MA in *Mind & Language*, University of Edinburgh, 2010
@@ -18,19 +16,19 @@ Education
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
