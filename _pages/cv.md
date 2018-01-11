@@ -34,7 +34,7 @@ Teaching
   
 Awards & Honors
 ======
-* Currently signed in to 43 different slack teams
+* 
 
 Funding
 ======
