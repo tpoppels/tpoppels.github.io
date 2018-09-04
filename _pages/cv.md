@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-For more details, here's a <a href="http://tpoppels.github.io/files/cv.pdf" target="_blank">PDF version</a> of my CV.
+For more details, here's a <a href="http://tpoppels.github.io/files/cv.pdf" target="_blank" style="color:blue">PDF version</a> of my CV.
 
 Education
 ======
