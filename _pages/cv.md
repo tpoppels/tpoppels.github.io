@@ -11,10 +11,11 @@ For more details, here's a [PDF version][http://tpoppels.github.io/files/cv.pdf]
 
 Education
 ======
-* MA in *Mind & Language*, University of Edinburgh, 2010
-* University of Pennsylvania: International Student at the Institute for Research in Cognitive Science, 2012-2013
-* University of Chicago: Linguistics Society of America Summer Institute, 2015
 * PhD in Linguistics, UC San Diego, 2019 (expected)
+* Visiting Student Researcher, MIT, 2017--2018
+* University of Chicago: Linguistics Society of America Summer Institute, 2015
+* University of Pennsylvania: International Student at the Institute for Research in Cognitive Science, 2012--2013
+* MA in *Mind & Language* (equivalent of BSc in Cognitive Science), University of Edinburgh, 2010
 
 Publications
 ======
