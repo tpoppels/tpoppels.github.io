@@ -3,7 +3,7 @@ title: "Implicit Gender Bias in Linguistic Descriptions for Expected Events"
 collection: publications
 permalink: /publication/2018-vanderMalsburg-Poppels-Levy
 excerpt: ''
-date: under review
+date: 2018
 venue: ''
 paperurl: 'https://Psyarxiv.com/N5ywr'
 ---
