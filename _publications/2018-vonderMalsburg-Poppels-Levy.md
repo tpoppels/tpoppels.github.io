@@ -1,10 +1,10 @@
 ---
 title: "Implicit Gender Bias in Linguistic Descriptions for Expected Events"
 collection: publications
-permalink: /publication/2018-vanderMalsburg-Poppels-Levy
+permalink: /publication/2018-vonderMalsburg-Poppels-Levy
 excerpt: ''
-date: 2018
-venue: ''
+date: 2018-08-03
+venue: 'PsyArxiv'
 paperurl: 'https://Psyarxiv.com/N5ywr'
 ---
 
