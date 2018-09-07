@@ -8,4 +8,4 @@ venue: 'PsyArxiv'
 paperurl: 'https://Psyarxiv.com/N5ywr'
 ---
 
-[Pre-print available on PsyArxiv](https://Psyarxiv.com/N5ywr)
+[[Pre-print available on PsyArxiv]](https://Psyarxiv.com/N5ywr)
