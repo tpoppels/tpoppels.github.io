@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: ""
 permalink: /talks/
 author_profile: true
 ---
@@ -9,7 +9,7 @@ author_profile: true
 <!-- {% include archive-single-talk.html %} -->
 <!-- {% endfor %} -->
 
-# Invited talks & colloquia
+## Invited talks & colloquia
 **Poppels, T.** (2018). *Referring to Events by Omitting the Verb Phrase: English VP-Ellipsis as a Form of Reference*. Language & Cognition Group, Harvard University.
 
 **Poppels, T.**, Kehler, A. (2017). *Verb Phrase Ellipsis is Discourse Reference: Novel Evidence from Dialogue*. Center for Research in Language, UC San Diego.
@@ -18,7 +18,7 @@ author_profile: true
 
 **Poppels, T.** (2018). *Referring to Events by Omitting the Verb Phrase: English VP-Ellipsis as a Form of Reference*. Language & Cognition Group, Harvard University.
 
-# Conference talks
+## Conference talks
 **Poppels, T.** & Kehler, A. (2018). *Asymmetries in Voice-Mismatched VP-Ellipsis*. 54th Annual Meeting of the Chicago Linguistics Society, 27th April 2018, Chicago, IL.
 
 **Poppels, T.** & Kehler, A. (2017). *Verb Phrase Ellipsis is Discourse Reference: Novel Evidence from Dialogue*. 53rd Annual Meeting of the Chicago Linguistics Society, 27th May 2017, Chicago, IL.
@@ -39,7 +39,7 @@ von der Malsburg, T., **Poppels, T.**, & Levy, R. (2017). *The President Gave He
 
 **Poppels, T.** & Swingley, D. (2013). *How Do We Learn Vowels?*. Penn Psychology undergraduate Research Fair, 26th May 2013, Philadelphia, PA.
 
-# Conference posters
+## Conference posters
 von der Malsburg, T., Boyce, V., **Poppels, T.**, Levy, R. (2018). *Gender-Biases in Language Processing: Explicit Beliefs About Event Outcomes vs. Implicit Linguistic Expectations*. Architectures and Mechanisms for Language Processing (AMLaP) 2018, 6th September 2018, Berlin, Germany.
 
 **Poppels, T.** & Kehler, A. (2018). *Reconsidering Asymmetries in Voice-Mismatched Verb Phrase Ellipsis*. The 31st Annual CUNY Sentence Processing Conference, 16th March 2018, Davis, CA.
