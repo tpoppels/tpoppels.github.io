@@ -38,7 +38,7 @@ von der Malsburg, T., **Poppels, T.**, & Levy, R. (2017). *The President Gave He
 **Poppels, T.** & Swingley, D. (2013). *How Do We Learn Vowels?*. Penn Psychology undergraduate Research Fair, 26th May 2013, Philadelphia, PA.
 
 # Conference posters
-von der Malsburg, T., Boyce, V., **Poppels, T.**, Levy, R. (2018). *Gender-Biases in Language Processing: Explicit Beliefs About Event Outcomes vs. Implicit Linguistic Expectations*. Architectures and Mechanisms for Language Processing (AMLaP) 2018, 6th September 2018, Berlin, Germany. [[PDF]](https://tpoppels.github.io/files/2018-vonderMalsburg-Boyce-Poppels-Levy.pdf)
+von der Malsburg, T., Boyce, V., **Poppels, T.**, Levy, R. (2018). *Gender-Biases in Language Processing: Explicit Beliefs About Event Outcomes vs. Implicit Linguistic Expectations*. Architectures and Mechanisms for Language Processing (AMLaP) 2018, 6th September 2018, Berlin, Germany. <a href='https://tpoppels.github.io/files/2018-vonderMalsburg-Boyce-Poppels-Levy.pdf' target='_blank' style='color:blue'>[PDF]</a>https://tpoppels.github.io/files/2018-vonderMalsburg-Boyce-Poppels-Levy.pdf)
 
 **Poppels, T.** & Kehler, A. (2018). *Reconsidering Asymmetries in Voice-Mismatched Verb Phrase Ellipsis*. The 31st Annual CUNY Sentence Processing Conference, 16th March 2018, Davis, CA.
 
