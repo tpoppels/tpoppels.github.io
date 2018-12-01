@@ -17,6 +17,8 @@ author_profile: true
 **Poppels, T.**, Levy, R. (2016). *Resolving Quantity- And Informativeness-Implicature in Indefinite Reference*. Center for Research in Language, UC San Diego.
 
 # Conference talks
+**Poppels, T.** & Kehler, A. (2018). *Asymmetries in Voice-Mismatched VP-Ellipsis*. California Meeting on Psycholinguistics, 2nd December 2018, Los Angeles, CA. <a href='https://tpoppels.github.io/files/2018-Poppels-Kehler-CAMP-handout.pdf' target='_blank' style='color:blue'>[PDF]</a>
+
 **Poppels, T.** & Kehler, A. (2018). *Asymmetries in Voice-Mismatched VP-Ellipsis*. 54th Annual Meeting of the Chicago Linguistics Society, 27th April 2018, Chicago, IL. <a href='https://tpoppels.github.io/files/2018-poppels-kehler-cls-handout.pdf' target='_blank' style='color:blue'>[PDF]</a>
 
 **Poppels, T.** & Kehler, A. (2017). *Verb Phrase Ellipsis is Discourse Reference: Novel Evidence from Dialogue*. 53rd Annual Meeting of the Chicago Linguistics Society, 27th May 2017, Chicago, IL. <a href='https://tpoppels.github.io/files/2017-poppels-kehler-cls-handout.pdf' target='_blank' style='color:blue'>[PDF]</a>
