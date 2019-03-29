@@ -17,7 +17,7 @@ author_profile: true
 <!-- **Poppels, T.** & Levy, R. (in prep). *Quantity and Informativeness in the Rational Speech Act Model: The Resolution of Multiple Implicature-Driving Forces*. -->
 
 # Journal articles
-**Poppels, T.** & Kehler, A. (in press). *Reconsidering Asymmetries in Voice-Mismatched Verb Phrase Ellipsis*. Glossa: A Journal of General Linguistics. <a href='https://tpoppels.github.io/files/2019-poppels-kehler-glossa.pdf' target='_blank' style='color:blue'>[PDF]</a>
+**Poppels, T.** & Kehler, A. (in press). *Reconsidering Asymmetries in Voice-Mismatched Verb Phrase Ellipsis*. Glossa: A Journal of General Linguistics. <a href='https://tpoppels.github.io/files/2019-poppels-kehler-glossa.pdf' target='_blank' style='color:blue'>[PDF]</a> <a href='https://github.com/tpoppels/poppels-kehler-2019-glossa' target='_blank' style='color:blue'>[Data respository]</a>
 
 von der Malsburg, T., **Poppels, T.**, & Levy, R. (under review). *Implicit Gender Bias in Linguistic Descriptions for Expected Events*. Psychological Science; Pre-Print Available at \url{https://Psyarxiv.com/N5ywr}. <a href='https://psyarxiv.com/n5ywr' target='_blank' style='color:blue'>[PDF]</a>
 
