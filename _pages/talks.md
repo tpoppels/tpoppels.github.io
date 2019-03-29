@@ -40,6 +40,10 @@ von der Malsburg, T., **Poppels, T.**, & Levy, R. (2017). *The President Gave He
 **Poppels, T.** & Swingley, D. (2013). *How Do We Learn Vowels?*. Penn Psychology undergraduate Research Fair, 26th May 2013, Philadelphia, PA. <a href='https://tpoppels.github.io/files/2013-poppels-swingley-penn-slides.pdf' target='_blank' style='color:blue'>[PDF]</a>
 
 # Conference posters
+**Poppels, T.** & Kehler, A. (2019). *Sluicing Inferred Propositions*. Sluicing and Ellipsis at 50, 12-13th April 2019, Chicago, IL.
+
+**Poppels, T.** & Kehler, A. (2019). *Ellipsis and the QUD: Evidence from Sluicing with Nominal Antecedents*. The 31st Annual CUNY Sentence Processing Conference, 16th March 2018, Davis, CA. <a href='https://tpoppels.github.io/files/2019-poppels-kehler-cuny.pdf' target='_blank' style='color:blue'>[PDF]</a>
+
 von der Malsburg, T., Boyce, V., **Poppels, T.**, Levy, R. (2018). *Gender-Biases in Language Processing: Explicit Beliefs About Event Outcomes vs. Implicit Linguistic Expectations*. Architectures and Mechanisms for Language Processing (AMLaP) 2018, 6th September 2018, Berlin, Germany. <a href='https://tpoppels.github.io/files/2018-vonderMalsburg-Boyce-Poppels-Levy.pdf' target='_blank' style='color:blue'>[PDF]</a>
 
 **Poppels, T.** & Kehler, A. (2018). *Reconsidering Asymmetries in Voice-Mismatched Verb Phrase Ellipsis*. The 31st Annual CUNY Sentence Processing Conference, 16th March 2018, Davis, CA. <a href='https://tpoppels.github.io/files/2018-poppels-kehler-cuny-poster.pdf' target='_blank' style='color:blue'>[PDF]</a>
