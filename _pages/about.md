@@ -13,3 +13,7 @@ interested in ellipsis, computational pragmatics, and experimental approaches to
 language. My advisors are [Andy Kehler](http://idiom.ucsd.edu/~kehler/) and
 [Roger Levy](http://www.mit.edu/~rplevy/).
 
+Former and current Research Assistants:
+- Shiva Upadhye
+- Ryan Sie
+- Leo Pascual
