@@ -40,6 +40,8 @@ von der Malsburg, T., **Poppels, T.**, & Levy, R. (2017). *The President Gave He
 **Poppels, T.** & Swingley, D. (2013). *How Do We Learn Vowels?*. Penn Psychology undergraduate Research Fair, 26th May 2013, Philadelphia, PA. <a href='https://tpoppels.github.io/files/2013-poppels-swingley-penn-slides.pdf' target='_blank' style='color:blue'>[PDF]</a>
 
 # Conference posters
+**Poppels, T.** & Kehler, A. (2019). *Ellipsis and the QuD: Evidence from Sluicing with Nominal Antecedents*. XPRAG, 20th June 2019, Edinburgh, UK. <a href='https://tpoppels.github.io/files/2019-poppels-kehler-xprag-poster.pdf' target='_blank' style='color:blue'>[PDF]</a>
+
 **Poppels, T.** & Kehler, A. (2019). *Sluicing Inferred Propositions*. Sluicing and Ellipsis at 50, 12-13th April 2019, Chicago, IL. <a href='https://tpoppels.github.io/files/2019-poppels-kehler-sluicingat50-poster.pdf' target='_blank' style='color:blue'>[PDF]</a>
 
 **Poppels, T.** & Kehler, A. (2019). *Ellipsis and the QUD: Evidence from Sluicing with Nominal Antecedents*. The 31st Annual CUNY Sentence Processing Conference, 16th March 2018, Davis, CA. <a href='https://tpoppels.github.io/files/2019-poppels-kehler-cuny.pdf' target='_blank' style='color:blue'>[PDF]</a>
