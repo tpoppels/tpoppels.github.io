@@ -10,6 +10,8 @@ author_profile: true
 <!-- {% endfor %} -->
 
 # Invited talks & colloquia
+**Poppels, T.** & Kehler, A. (2019). *Anything can be Elided if you Know How: Clausal Ellipsis without Identity*. Ling Lunch, University of Paris Diderot. <a href='https://tpoppels.github.io/files/2019-poppels-paris-linglunch.pdf' target='_blank' style='color:blue'>[PDF]</a>
+
 **Poppels, T.** (2018). *Referring to Events by Omitting the Verb Phrase: English VP-Ellipsis as a Form of Reference*. Language & Cognition Group, Harvard University.
 
 **Poppels, T.**, Kehler, A. (2017). *Verb Phrase Ellipsis is Discourse Reference: Novel Evidence from Dialogue*. Center for Research in Language, UC San Diego.
