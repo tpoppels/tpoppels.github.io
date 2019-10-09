@@ -13,8 +13,8 @@ interested in ellipsis, computational pragmatics, and experimental approaches to
 language. My advisors are [Andy Kehler](http://idiom.ucsd.edu/~kehler/) and
 [Roger Levy](http://www.mit.edu/~rplevy/), and I spent 2017/18 at MIT visiting
 Roger's [Computational Psycholinguistics Lab](http://cpl.mit.edu/). Most
-recently (summer 2019), I visited Philip Miller and Anne Abeillé at the
-University of Paris Diderot on a Labex EFL grant.
+recently (summer 2019), I had the opportunity to visit Philip Miller and Anne
+Abeillé at the University of Paris Diderot on a Labex EFL mobility grant.
 
 Collaborators (in alphabetical order):
 - [Veronica Boyce](https://vboyce.github.io/)
