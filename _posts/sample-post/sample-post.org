@@ -1,0 +1,20 @@
+#+TITLE: Sample post
+#+AUTHOR: Till Poppels
+#+PROPERTY: header-args:R  :session *sample-post*
+#+PROPERTY: toc:2
+
+#+begin_src R :results silent :exports code
+
+require('tidyverse')
+
+#+end_src
+
+
+#+begin_src R :results output graphics :file img/sample-results.svg :exports both
+
+tibble(x=rnorm(mean=0,n=100,sd=1)) %>% ggplot(aes(x=x)) + geom_histogram()
+
+#+end_src
+
+#+RESULTS:
+[[file:img/sample-results.svg]]
