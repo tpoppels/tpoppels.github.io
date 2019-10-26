@@ -21,7 +21,7 @@ author_profile: true
 # Conference talks
 **Poppels, T.** & Kehler, A. (2020). *Inferential Ellipsis Resolution: Sluicing, Nominal Antecedents, and the Question under Discussion*. 94th Annual Meeting of the Linguistics Society of America, 5th January 2020, New Orleans, LA.
 
-**Poppels, T.** & Kehler, A. (2018). *Asymmetries in Voice-Mismatched VP-Ellipsis*. California Meeting on Psycholinguistics, 2nd December 2018, Los Angeles, CA. <a href='https://tpoppels.github.io/files/2018-poppels-kehler-camp-handout.pdf' target='_blank' style='color:blue'>[PDF]</a>
+**Poppels, T.** & Kehler, A. (2019). *Ellipsis and the QuD: Evidence from Sluicing with Nominal Antecedents*. California Meeting on Psycholinguistics, 26th October 2019, Santa Cruz, CA. <a href='https://tpoppels.github.io/files/2019-poppels-kehler-camp-slides.pdf' target='_blank' style='color:blue'>[PDF]</a>
 
 **Poppels, T.** & Kehler, A. (2018). *Asymmetries in Voice-Mismatched VP-Ellipsis*. California Meeting on Psycholinguistics, 2nd December 2018, Los Angeles, CA. <a href='https://tpoppels.github.io/files/2018-poppels-kehler-camp-handout.pdf' target='_blank' style='color:blue'>[PDF]</a>
 
