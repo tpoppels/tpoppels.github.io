@@ -10,7 +10,7 @@ redirect_from:
 
 I am a linguist who wants to understand how languages make use of shared
 contextual information in order to facilitate efficient communication. I
-received a PhD from the Linguistics department at UC San Diego ([defense
+received a PhD in Linguistics from UC San Diego ([defense
 slides](https://1drv.ms/p/s!AmKAyTMBz5Tbi_pE5uyxNk5S0HYAew?e=8KiK37);
 [thesis](https://tpoppels.github.io/files/2020-poppels-thesis.pdf)) where I was
 advised by [Andy Kehler](http://idiom.ucsd.edu/~kehler/) and [Roger
