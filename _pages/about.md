@@ -8,13 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in the Linguistics department at UC San Diego. I am
-interested in ellipsis, computational pragmatics, and experimental approaches to
-language. My advisors are [Andy Kehler](http://idiom.ucsd.edu/~kehler/) and
-[Roger Levy](http://www.mit.edu/~rplevy/), and I spent 2017/18 at MIT visiting
-Roger's [Computational Psycholinguistics Lab](http://cpl.mit.edu/). Most
-recently (summer 2019), I had the opportunity to visit Philip Miller and Anne
-Abeillé at the University of Paris Diderot on a Labex EFL mobility grant.
+I am a linguist who wants to understand how languages make use of shared
+contextual information in order to facilitate efficient communication. I
+received a PhD from the Linguistics department at UC San Diego ([defense
+slides](https://1drv.ms/p/s!AmKAyTMBz5Tbi_pE5uyxNk5S0HYAew?e=8KiK37);
+[thesis](https://tpoppels.github.io/files/2020-poppels-thesis.pdf)) where I was
+advised by [Andy Kehler](http://idiom.ucsd.edu/~kehler/) and [Roger
+Levy](http://www.mit.edu/~rplevy/).
+
+I spent 2017/18 at MIT visiting Roger's [Computational Psycholinguistics
+Lab](http://cpl.mit.edu/) and I will be starting a post-doctoral position at the
+University of Paris in January 2021, working with Anne Abeillé and Philip
+Miller. My thesis research has focused on ellipsis, and I am also interested in
+computational pragmatics and experimental approaches to language.
 
 Collaborators (in alphabetical order):
 - [Veronica Boyce](https://vboyce.github.io/)
