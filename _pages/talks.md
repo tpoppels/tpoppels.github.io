@@ -17,6 +17,8 @@ author_profile: true
 <!-- **Poppels, T.**, Kehler, A. (2017). *Verb Phrase Ellipsis is Discourse Reference: Novel Evidence from Dialogue*. Center for Research in Language, UC San Diego. -->
 
 <!-- **Poppels, T.**, Levy, R. (2016). *Resolving Quantity- And Informativeness-Implicature in Indefinite Reference*. Center for Research in Language, UC San Diego. -->
+**Poppels, T.**, Boyce, V., Ajunwa, C., von der Malsburg, T., & Levy, R. (2021). *Bias Against 'she' Pronouns can be Rapidly Overcome by Changing Event Expectations*. Ling Lunch Colloquium Series, Universit� De Paris. <a href='https://tpoppels.github.io/files/2021-poppels-paris-linglunch.pptx' target='_blank' style='color:blue'>[PDF]</a>
+
 **Poppels, T.** & Kehler, A. (2019). *Anything can be Elided if you Know How: Clausal Ellipsis without Identity*. Ling Lunch, University of Paris Diderot. <a href='https://tpoppels.github.io/files/2019-poppels-paris-linglunch.pdf' target='_blank' style='color:blue'>[PDF]</a>
 
 **Poppels, T.** (2018). *Referring to Events by Omitting the Verb Phrase: English VP-Ellipsis as a Form of Reference*. Language & Cognition Group, Harvard University.
@@ -59,6 +61,8 @@ von der Malsburg, T., **Poppels, T.**, & Levy, R. (2017). *The President Gave He
 **Poppels, T.** & Swingley, D. (2013). *How Do We Learn Vowels?*. Penn Psychology undergraduate Research Fair, 26th May 2013, Philadelphia, PA. <a href='https://tpoppels.github.io/files/2013-poppels-swingley-penn-slides.pdf' target='_blank' style='color:blue'>[PDF]</a>
 
 # Conference posters
+**Poppels, T.**, Boyce, V., Ajunwa, C., von der Malsburg, T., & Levy, R. (2021). *Bias Against 'she' Pronouns can be Rapidly Overcome by Changing Event Expectations*. The 34th Annual CUNY Sentence Processing Conference, 6th March 2021. <a href='https://tpoppels.github.io/files/2021-poppels-boyce-ajunwa-vondermalsburg-levy-cuny-slides.pdf' target='_blank' style='color:blue'>[PDF]</a>
+
 **Poppels, T.** & Kehler, A. (2020). *Anything can be Elided if you Know How: Sluicing, Voice Mismatch, and Tought Movement*. The 33rd Annual CUNY Sentence Processing Conference, 21st March 2020, Amherst, MA. <a href='https://tpoppels.github.io/files/2019-poppels-kehler-cuny.pdf' target='_blank' style='color:blue'>[PDF]</a>
 
 Miller, P. & **Poppels, T.** (2020). *Connectivity Evidence for a Direct Generation Approach to Pseudogapping*. The 33rd Annual CUNY Sentence Processing Conference, 21st March 2020, Amherst, MA.
