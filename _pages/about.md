@@ -8,28 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-I am a linguist who wants to understand how languages make use of shared
-contextual information in order to facilitate efficient communication. I
-received a PhD in Linguistics from UC San Diego ([defense
+I am a postdoctoral researcher in Linguistics at the Université de Paris. My 
+primary interest lies in understanding how languages make use of shared
+contextual information in order to facilitate efficient communication, with a 
+particular focus on elliptical constructions. 
+
+I received a PhD in Linguistics from UC San Diego in 2020 ([defense
 slides](https://1drv.ms/p/s!AmKAyTMBz5Tbi_pE5uyxNk5S0HYAew?e=8KiK37);
 [thesis](https://tpoppels.github.io/files/2020-poppels-thesis.pdf)) where I was
 advised by [Andy Kehler](http://idiom.ucsd.edu/~kehler/) and [Roger
-Levy](http://www.mit.edu/~rplevy/).
-
-I spent 2017/18 at MIT visiting Roger's [Computational Psycholinguistics
-Lab](http://cpl.mit.edu/) and I will be starting a post-doctoral position at the
-University of Paris in January 2021, working with Anne Abeillé and Philip
-Miller. My thesis research has focused on ellipsis, and I am also interested in
-computational pragmatics and experimental approaches to language.
+Levy](http://www.mit.edu/~rplevy/). Prior to that, spent a year visiting Roger's 
+[Computational Psycholinguistics Lab](http://cpl.mit.edu/). 
 
 Collaborators (in alphabetical order):
+- [Anne Abeillé](http://www.llf.cnrs.fr/fr/Gens/Abeille)
+- [Chelsea Ajunwa](https://bcs.mit.edu/users/cajunwamitedu)
 - [Veronica Boyce](https://vboyce.github.io/)
 - [Andy Kehler](http://idiom.ucsd.edu/~kehler/)
 - [Roger Levy](http://www.mit.edu/~rplevy/)
 - [Titus von der Malsburg](https://tmalsburg.github.io/)
 - [Philip Miller](https://sites.google.com/site/philipmillerlinguistics/publications/articles)
 
-Former and current Research Assistants:
+Former Research Assistants (at UCSD):
 - Leo Pascual
 - Ryan Sie
 - Shiva Upadhye
