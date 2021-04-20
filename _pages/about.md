@@ -17,7 +17,7 @@ I received a PhD in Linguistics from UC San Diego in 2020 ([defense
 slides](https://1drv.ms/p/s!AmKAyTMBz5Tbi_pE5uyxNk5S0HYAew?e=8KiK37);
 [thesis](https://tpoppels.github.io/files/2020-poppels-thesis.pdf)) where I was
 advised by [Andy Kehler](http://idiom.ucsd.edu/~kehler/) and [Roger
-Levy](http://www.mit.edu/~rplevy/). Prior to that, spent a year visiting Roger's 
+Levy](http://www.mit.edu/~rplevy/). In 2017/2018 I spent a year visiting Roger's 
 [Computational Psycholinguistics Lab](http://cpl.mit.edu/). 
 
 Collaborators (in alphabetical order):
