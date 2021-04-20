@@ -17,7 +17,7 @@ author_profile: true
 <!-- **Poppels, T.**, Kehler, A. (2017). *Verb Phrase Ellipsis is Discourse Reference: Novel Evidence from Dialogue*. Center for Research in Language, UC San Diego. -->
 
 <!-- **Poppels, T.**, Levy, R. (2016). *Resolving Quantity- And Informativeness-Implicature in Indefinite Reference*. Center for Research in Language, UC San Diego. -->
-**Poppels, T.**, Boyce, V., Ajunwa, C., von der Malsburg, T., & Levy, R. (2021). *Bias Against 'she' Pronouns can be Rapidly Overcome by Changing Event Expectations*. Ling Lunch Colloquium Series, Université De Paris. <a href='https://tpoppels.github.io/files/2021-poppels-paris-linglunch.pptx' target='_blank' style='color:blue'>[PDF]</a>
+**Poppels, T.**, Boyce, V., Ajunwa, C., von der Malsburg, T., & Levy, R. (2021). *Bias Against 'she' Pronouns can be Rapidly Overcome by Changing Event Expectations*. Ling Lunch Colloquium Series, Université de Paris. <a href='https://tpoppels.github.io/files/2021-poppels-paris-linglunch.pptx' target='_blank' style='color:blue'>[PDF]</a>
 
 **Poppels, T.** & Kehler, A. (2019). *Anything can be Elided if you Know How: Clausal Ellipsis without Identity*. Ling Lunch, University of Paris Diderot. <a href='https://tpoppels.github.io/files/2019-poppels-paris-linglunch.pdf' target='_blank' style='color:blue'>[PDF]</a>
 
