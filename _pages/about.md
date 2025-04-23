@@ -8,28 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher in Linguistics at the Université de Paris. My 
-primary interest lies in understanding how languages make use of shared
-contextual information in order to facilitate efficient communication, with a 
-particular focus on elliptical constructions. 
+I’m a linguist specializing in psycholinguistics, with experience designing behavioral experiments and quantitative studies on how the brain processes language.
 
-I received a PhD in Linguistics from UC San Diego in 2020 ([defense
-slides](https://1drv.ms/p/s!AmKAyTMBz5Tbi_pE5uyxNk5S0HYAew?e=8KiK37);
-[thesis](https://tpoppels.github.io/files/2020-poppels-thesis.pdf)) where I was
-advised by [Andy Kehler](http://idiom.ucsd.edu/~kehler/) and [Roger
-Levy](http://www.mit.edu/~rplevy/). In 2017/2018 I spent a year visiting Roger's 
-[Computational Psycholinguistics Lab](http://cpl.mit.edu/). 
+After completing my PhD in linguistics at UC San Diego and a postdoc at the University of Paris, I left academia in 2022 to found [Contexicon](https://www.contexicon.com){:target="_blank"}, a startup focused on applying psycholinguistic research to language-learning software. In that role, I collaborated closely with software engineers, working to translate research insights into practical educational tools. While the startup didn't reach sufficient user traction to continue development, the experience strengthened my ability to bridge linguistic research and technology.
 
-Collaborators (in alphabetical order):
-- [Anne Abeillé](http://www.llf.cnrs.fr/fr/Gens/Abeille)
-- [Chelsea Ajunwa](https://bcs.mit.edu/users/cajunwamitedu)
-- [Veronica Boyce](https://vboyce.github.io/)
-- [Andy Kehler](http://idiom.ucsd.edu/~kehler/)
-- [Roger Levy](http://www.mit.edu/~rplevy/)
-- [Titus von der Malsburg](https://tmalsburg.github.io/)
-- [Philip Miller](https://sites.google.com/site/philipmillerlinguistics/publications/articles)
+I'm now looking for roles that draw on my background in linguistics, experimental research methods, and interdisciplinary collaboration. You can find more details on my [publications](/publications/) and [talks](/talks/), or download my full [CV](/cv/).
 
-Former Research Assistants (at UCSD):
-- Leo Pascual
-- Ryan Sie
-- Shiva Upadhye
+Academic collaborators (in alphabetical order): [Anne Abeillé](http://www.llf.cnrs.fr/fr/Gens/Abeille);[Chelsea Ajunwa](https://bcs.mit.edu/users/cajunwamitedu); [Veronica Boyce](https://vboyce.github.io/); [Andy Kehler](http://idiom.ucsd.edu/~kehler/); [Roger Levy](http://www.mit.edu/~rplevy/); [Titus von der Malsburg](https://tmalsburg.github.io/); [Philip Miller](https://sites.google.com/site/philipmillerlinguistics/publications/articles)
