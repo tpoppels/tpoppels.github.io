@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Here's a <a href="http://tpoppels.github.io/files/cv.pdf" target="_blank" style="color:blue">PDF version</a> of my CV.
+I'm currently updating my CV; please check back in a few days for the most up-to-date version. Here's the <a href="http://tpoppels.github.io/files/cv.pdf" target="_blank" style="color:blue">outdated version</a> in the meantime.
 
 <!-- Education -->
 <!-- ====== -->
