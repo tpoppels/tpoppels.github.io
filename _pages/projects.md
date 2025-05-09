@@ -21,9 +21,9 @@ The project extends a large-scale psycholinguistic experiment I conducted during
 - Interactive dashboards built with Shiny (R) and Streamlit (Python)
 - Strong focus on reproducibility, transparency, and structured reasoning
 
-📄 [View the live project website](https://tpoppels.github.io/gender-bias-humans-vs-llms)
+📄 [View the live project website](https://tpoppels.github.io/gender-bias-humans-vs-llms){:target="_blank"}
 
-📂 [GitHub repository](https://github.com/tpoppels/gender-bias-humans-vs-llms)
+📂 [GitHub repository](https://github.com/tpoppels/gender-bias-humans-vs-llms){:target="_blank"}
 
 🛠 **Tools:** R, brms, ggplot2, tidyverse, Python, HuggingFace, Streamlit, Shiny, Quarto, GitHub Pages
 
