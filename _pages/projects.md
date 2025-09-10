@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Data Science Projects
+title: NLP & Data Science Projects
 permalink: /projects/
 author_profile: true
 ---
